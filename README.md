@@ -1,6 +1,14 @@
 # Puninator
 *"A pun a day keeps the depression troll away."*
 
+## Contents
+
+- [Description](#description)
+- [Dependencies](#dependencies)
+- [How it works](#how-it-works)
+- [Submitting more puns](#submitting-more-puns)
+- [TODO](#todo)
+
 ## Description
 
 **Puninator** is a Python-based pun generator. 'Nuff said.
