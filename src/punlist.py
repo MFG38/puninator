@@ -33,5 +33,21 @@ puns = [
     "Why were the Middle Ages called the Dark Ages?\nBecause there were too many knights.",
     "What's the best thing about living in Switzerland?\nI don't know, but the flag is a big plus.",
     "The past, the present and the future walked into a bar.\nIt was tense.",
-    "Some people think 'prison' is one word.\nBut for robbers, it's a whole sentence."]
+    "Some people think 'prison' is one word.\nBut for robbers, it's a whole sentence.",
+    "Is the pool safe for driving?\nIt deep ends.",
+    "I saw a documentary about beavers.\nIt was the best dam program I've ever seen.",
+    "How do you steal a coat?\nYou jacket.",
+    "How do you organize a space party?\nYou planet.",
+    "Yesterday, a clown held a door open for me.\nIt was a nice jester.",
+    "I couldn't get a reservation at the library.\nThey were completely booked.",
+    "I used to work in a shoe recycling shop.\nIt was sole destroying.",
+    "I used to hate facial hair, but then it grew on me.",
+    "Why did the stadium get hot after the game?\nBecause all the fans left.",
+    "I went on a date last night with a girl from the zoo.\nIt was great. She's a keeper.",
+    "I have the heart of a lion.\nAnd a lifetime ban from the San Diego Zoo.",
+    "Why are ducks such great detectives?\nThey always quack the case.",
+    "What's the difference between a hippo and a Zippo?\nOne is heavy, the other is a little lighter.",
+    "I cut my finger chopping cheese, but I think I have grater problems.",
+    "Atheism is a non-prophet organization.",
+    "What is a tornado's favorite game?\nTwister."]
 
