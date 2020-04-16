@@ -1,5 +1,7 @@
 # Puninator
-"A pun a day keeps the depression troll away."
+*"A pun a day keeps the depression troll away."*
+
+[TOC]
 
 ## Description
 
@@ -15,7 +17,7 @@ Puninator consists of two distinct modules: **main.py** and **punlist.py**. The 
 
 In order to generate a pun, you'll want to run main.py in a command line or similar environment. Upon running the module, it will display a random pun picked from punlist.py.
 
-You only need to worry about punlist.py if you want to extend it with more puns. To add a pun to the list, open punlist.py in your code editor of choice and write it into the puns[] list between quotation marks (""). Don't forget to add commas (outside the quotations marks) at the end of each new line!
+You only need to worry about punlist.py if you want to extend it with more puns. To add a pun to the list, open punlist.py in your code editor of choice and write it into the puns[] list between quotation marks (""). Don't forget to add commas (outside the quotation marks) at the end of each new line!
 
 ## Submitting more puns
 
