@@ -49,5 +49,8 @@ puns = [
     "What's the difference between a hippo and a Zippo?\nOne is heavy, the other is a little lighter.",
     "I cut my finger chopping cheese, but I think I have grater problems.",
     "Atheism is a non-prophet organization.",
-    "What is a tornado's favorite game?\nTwister."]
+    "What is a tornado's favorite game?\nTwister.",
+    "What do soldiers call their morning coffee?\nG.I. joe.",
+    "Don't let the cops ketchup to you.",
+    "Why do dinosaurs smell so much?\nBecause they're ex-stinkt."]
 
