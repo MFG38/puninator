@@ -33,4 +33,4 @@ Additional puns may be submitted by opening an issue with the "pun-suggestions" 
 
 * Port from Python 2 to Python 3 (once I actually learn Python 3).
 * Implement additional commands, e.g. to copy a pun to the clipboard.
-* Implement pun categories.
+* (???) Implement pun categories.

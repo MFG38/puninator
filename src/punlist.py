@@ -89,5 +89,10 @@ puns = [
     "Why didn't the bike stand on its own?\nIt was two tired.",
     "Why didn't the toilet paper cross the road?\nIt was stuck in a crack.",
     "You hear about the blind man who fell down a well?\nHe couldn't see that well.",
-    "What do you get if you throw a piano down a mine shaft?\nA flat miner."]
+    "What do you get if you throw a piano down a mine shaft?\nA flat miner.",
+    "My friend told me that pepper is the best seasoning for a roast.\nI took it with a grain of salt.",
+    "Did you hear about the Italian chef?\nHe pasta-way.",
+    "Want to hear a joke about paper?\nNevermind, it's tearable.",
+    "How does a penguin build its house?\nIgloos it together.",
+    "A local scarecrow got an award for being out standing in its field."]
 
