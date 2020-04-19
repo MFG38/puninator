@@ -61,7 +61,7 @@ puns = [
     "How do trees get online?\nThey just log in.",
     "Someone stole my toilet and the police have nothing to go on.",
     "Two artists had an art contest.\nIt ended in a draw.",
-    "What do you call an allogator in a vest?\nAn investigator.",
+    "What do you call an alligator in a vest?\nAn investigator.",
     "Communist jokes aren't funny unless everyone gets them.",
     "What do you call a nose without a body?\nNobody knows.",
     "Have you heard about the movie Constipation?\nIt hasn't come out yet.",
