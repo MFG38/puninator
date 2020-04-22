@@ -94,5 +94,10 @@ puns = [
     "Did you hear about the Italian chef?\nHe pasta-way.",
     "Want to hear a joke about paper?\nNevermind, it's tearable.",
     "How does a penguin build its house?\nIgloos it together.",
-    "A local scarecrow got an award for being out standing in its field."]
+    "A local scarecrow got an award for being out standing in its field.",
+    "Why doesn't a teddy bear eat?\nBecause it's already stuffed.",
+    "Why do we tell actors to break a leg?\nBecause every play has a cast.",
+    "I can’t believe I got fired from the calendar factory.\nAll I did was take a day off!",
+    "I knew a guy who used to sell wrenches.\nHe was all torque.",
+    "Why does the large dildo not have any friends?\nHe’s a pain in the ass."]
 
