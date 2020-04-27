@@ -99,5 +99,8 @@ puns = [
     "Why do we tell actors to break a leg?\nBecause every play has a cast.",
     "I can’t believe I got fired from the calendar factory.\nAll I did was take a day off!",
     "I knew a guy who used to sell wrenches.\nHe was all torque.",
-    "Why does the large dildo not have any friends?\nHe’s a pain in the ass."]
+    "Why does the large dildo not have any friends?\nHe’s a pain in the ass.",
+    "What do you do with a dead scientist?\nYou barium.",
+    "What instrument can a skeleton not play?\nAn organ.",
+    "I've been reading a book about zero gravity.\nIt's impossible to put down."]
 
