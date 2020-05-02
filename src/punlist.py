@@ -102,5 +102,6 @@ puns = [
     "Why does the large dildo not have any friends?\nHe’s a pain in the ass.",
     "What do you do with a dead scientist?\nYou barium.",
     "What instrument can a skeleton not play?\nAn organ.",
-    "I've been reading a book about zero gravity.\nIt's impossible to put down."]
+    "I've been reading a book about zero gravity.\nIt's impossible to put down.",
+    "My pathological cheater of a sister wanted to play a board game with me.\nI turned her down because I didn't like the Risk involved."]
 
