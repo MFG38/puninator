@@ -104,5 +104,6 @@ puns = [
     "What instrument can a skeleton not play?\nAn organ.",
     "I've been reading a book about zero gravity.\nIt's impossible to put down.",
     "My pathological cheater of a sister wanted to play a board game with me.\nI turned her down because I didn't like the Risk involved.",
-    "Aren't ghosts just so ghoul?"]
+    "Aren't ghosts just so ghoul?",
+    "What did the late tomato say to the early tomato?\n'I'll ketchup.'"]
 
