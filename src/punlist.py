@@ -105,5 +105,10 @@ puns = [
     "I've been reading a book about zero gravity.\nIt's impossible to put down.",
     "My pathological cheater of a sister wanted to play a board game with me.\nI turned her down because I didn't like the Risk involved.",
     "Aren't ghosts just so ghoul?",
-    "What did the late tomato say to the early tomato?\n'I'll ketchup.'"]
+    "What did the late tomato say to the early tomato?\n'I'll ketchup.'",
+    "What do you call a fake noodle?\nAn impasta.",
+    "Have you been to the restaurant on the Moon?\nGreat food, no atmosphere.",
+    "What do you call cheese that's not yours?\nNacho cheese.",
+    "I hate jokes about German sausages.\nThey're the wurst.",
+    "I bought shoes from a drug dealer once.\nI don't know what he laced them with, but I was tripping all day."]
 
