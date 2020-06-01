@@ -110,5 +110,6 @@ puns = [
     "Have you been to the restaurant on the Moon?\nGreat food, no atmosphere.",
     "What do you call cheese that's not yours?\nNacho cheese.",
     "I hate jokes about German sausages.\nThey're the wurst.",
-    "I bought shoes from a drug dealer once.\nI don't know what he laced them with, but I was tripping all day."]
+    "I bought shoes from a drug dealer once.\nI don't know what he laced them with, but I was tripping all day.",
+    "If two vegans are having an argument, is it still called a beef?"]
 
