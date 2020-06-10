@@ -113,5 +113,6 @@ puns = [
     "I bought shoes from a drug dealer once.\nI don't know what he laced them with, but I was tripping all day.",
     "If two vegans are having an argument, is it still called a beef?",
     "What's a witch's favorite subject in school?\nSpelling.",
-    "I fear for the calendar. Its days are numbered."]
+    "I fear for the calendar. Its days are numbered.",
+    "Why is a mushroom always invited to parties?\nBecause he's a fungi."]
 
