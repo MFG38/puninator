@@ -114,5 +114,6 @@ puns = [
     "If two vegans are having an argument, is it still called a beef?",
     "What's a witch's favorite subject in school?\nSpelling.",
     "I fear for the calendar. Its days are numbered.",
-    "Why is a mushroom always invited to parties?\nBecause he's a fungi."]
+    "Why is a mushroom always invited to parties?\nBecause he's a fungi.",
+    "My father died because he couldn't remember his blood type.\nI'll never forget his last words: 'be positive'."]
 
