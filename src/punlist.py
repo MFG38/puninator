@@ -116,5 +116,6 @@ puns = [
     "I fear for the calendar. Its days are numbered.",
     "Why is a mushroom always invited to parties?\nBecause he's a fungi.",
     "My father died because he couldn't remember his blood type.\nI'll never forget his last words: 'be positive'.",
-    "Why does Norway have barcodes on their battleships?\nSo when they get back to port, they can Scandinavian."]
+    "Why does Norway have barcodes on their battleships?\nSo when they get back to port, they can Scandinavian.",
+    "Why was the broom late for the meeting?\nHe overswept."]
 
