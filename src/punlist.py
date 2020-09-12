@@ -117,5 +117,8 @@ puns = [
     "Why is a mushroom always invited to parties?\nBecause he's a fungi.",
     "My father died because he couldn't remember his blood type.\nI'll never forget his last words: 'be positive'.",
     "Why does Norway have barcodes on their battleships?\nSo when they get back to port, they can Scandinavian.",
-    "Why was the broom late for the meeting?\nHe overswept."]
+    "Why was the broom late for the meeting?\nHe overswept.",
+    "A magician was driving down the street and then turned into a driveway.",
+    "A man knocked on my door and asked for a small donation towards the local swimming pool.\nI gave him a glass of water.",
+    "I just read a book about Stockholm syndrome.\nIt was pretty bad at first, but by the end I liked it."]
 
