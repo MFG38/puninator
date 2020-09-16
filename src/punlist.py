@@ -120,5 +120,6 @@ puns = [
     "Why was the broom late for the meeting?\nHe overswept.",
     "A magician was driving down the street and then turned into a driveway.",
     "A man knocked on my door and asked for a small donation towards the local swimming pool.\nI gave him a glass of water.",
-    "I just read a book about Stockholm syndrome.\nIt was pretty bad at first, but by the end I liked it."]
+    "I just read a book about Stockholm syndrome.\nIt was pretty bad at first, but by the end I liked it.",
+    "I've been watching a TV channel about origami lately.\nIt's paper-view."]
 
